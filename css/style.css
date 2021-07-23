@@ -1,0 +1,17 @@
+.container {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: rgba(255, 255, 255, 0.801);
+}
+
+.time {
+    font-size: 100px;
+    margin-bottom: 30px;
+}
+
+.color-code {
+    font-size: 30px;
+}
